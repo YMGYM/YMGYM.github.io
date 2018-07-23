@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            "사과나무"
 tagline:          '오늘 한 줄의 코드'
-description:     '내일 코딩을 그만둬도 오늘 한 줄의 코드를 커밋합니다.'
+description:     '내일 코딩을 그만둬도 오늘 한 줄의 코드를 커밋하자.'
 
 # original copywrite
 # description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
