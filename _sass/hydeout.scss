@@ -15,3 +15,9 @@
 @import "hydeout/message";
 @import "hydeout/search";
 @import "hydeout/tags";
+
+@font-face { font-family: 'GT'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiTitleM.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+.GT {
+  font-family: 'GT', sans-serif;
+}
