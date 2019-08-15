@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dialogflow 기초"
+title: "dialogflow CRUD"
 categories:
   - 아픈지렁이
 tags:
