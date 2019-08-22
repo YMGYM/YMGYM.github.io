@@ -23,17 +23,22 @@ tags:
 사용 예는 다음과 같다.
 - parameters 부분에 action칸에 action명을 작성해 준다.
 - 코드를 다음과 같이 작성한다.
+
 `views.py`
 ~~~python
 ...
 elif action == 'order_destroy':
             params = req.get('queryResult').get('parameters')
             return order_destroy(request, params)
+            
 ...
+
 def order_destroy(request, params):
+
 ...
 
 ~~~
+
 
 ## Delete
 
